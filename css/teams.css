@@ -1,0 +1,60 @@
+.body__tour_card-info {
+	gap: 10px !important;
+}
+.game-tag {
+	display: block;
+	background-color: #e67e2230 !important;
+	padding: 9px 5px 9px 5px;
+	border-radius: 5px;
+}
+.game-tag h5 {
+	color: #e67e22 !important;
+}
+.body__tour_card-info_text {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}
+
+.body__tour_card-info_title {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.body__tour_card-desc_text p {
+	font-family: 'Montserrat';
+	font-size: 15px;
+	font-weight: 500 !important;
+	line-height: 16px;
+	color: #00000095 !important;
+}
+.additional-info {
+	right: 0;
+	bottom: 0;
+	display: flex;
+	position: absolute;
+}
+.additional-info h4 {
+	font-size: 13px;
+	font-family: 'Montserrat';
+	font-weight: 300;
+	line-height: 16px;
+	color: #00000050;
+}
+.additional-info span {
+	font-weight: 400;
+}
+.body__tour_card-title {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.body__tour_card-title p {
+	font-size: 13px !important;
+	font-family: 'Montserrat' !important;
+	font-weight: 300 !important;
+	line-height: 16px !important;
+	color: #00000050 !important;
+}
